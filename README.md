@@ -132,6 +132,9 @@ git clone https://github.com/esirplayground/luci-theme-atmaterial-ColorIcon.git
 
 # luci-theme-neobird
 git clone https://github.com/thinktip/luci-theme-neobird.git
+
+# luci-theme-aurora
+https://github.com/eamonxg/luci-theme-aurora.git
 ```
 
 ## 编译常见问题
